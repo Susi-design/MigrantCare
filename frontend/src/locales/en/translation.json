@@ -1,0 +1,201 @@
+{
+  "nav": {
+    "home": "HOME",
+    "jobs": "ALL JOBS",
+    "applicant_applications": "APPLICANT'S APPLICATIONS",
+    "my_applications": "MY APPLICATIONS",
+    "post_job": "POST NEW JOB",
+    "my_jobs": "VIEW YOUR JOBS",
+    "logout": "LOGOUT"
+  },
+  "login": {
+    "title": "Login to your account",
+    "label_login_as": "Login As",
+    "select_role": "Select Role",
+    "role_job_seeker": "Job Seeker",
+    "role_employer": "Employer",
+    "label_email": "Email Address",
+    "placeholder_email": "Enter your email",
+    "label_password": "Password",
+    "placeholder_password": "Enter your Password",
+    "button_login": "Login",
+    "link_register": "Register Now"
+  },
+  "register": {
+    "title": "Create a new account",
+    "label_register_as": "Register As",
+    "select_role": "Select Role",
+    "role_employer": "Employer",
+    "role_job_seeker": "Job Seeker",
+    "label_name": "Name",
+    "placeholder_name": "Enter your name",
+    "label_email": "Email Address",
+    "placeholder_email": "Enter your email",
+    "label_phone": "Phone Number",
+    "placeholder_phone": "Enter your phone",
+    "label_password": "Password",
+    "placeholder_password": "Enter your password",
+    "button_register": "Register",
+    "link_login": "Login Now"
+  },
+  "hero": {
+    "headline_p1": "Find a job that suits",
+    "headline_p2": "your interests and skills",
+    "paragraph": "MigrantCare is a unified digital web application designed to support, empower, and connect the migrant workforce and employersacross Tamil Nadu. We are pioneering digital inclusion for vulnerable communities, ensuring every worker can access opportunity, support, and welfare.",
+    "stats_live_job_key": "Live Job",
+    "stats_companies_key": "Companies",
+    "stats_job_seekers_key": "Job Seekers",
+    "stats_employers_key": "Employers"
+  },
+  "howitworks": {
+    "main_title": "How Career MigrantCare Works !",
+    "step1_title": "Create Account",
+    "step1_description": " Create a new account by registering with your role.",
+    "step2_title": "Find a Job/Post a Job",
+    "step2_description": "Based on your role find a job or post a job.",
+    "step3_title": "Apply For Job/Recruit Suitable Candidates",
+    "step3_description": "Apply for the job via application forms or select suitable candidates for your job posts."
+  },
+  
+  "companies": {
+    "main_title": "TOP COMPANIES",
+    "open_positions": "Open Positions",
+    "company1_title": "Sundaram Fasteners",
+    "company1_location": "Hosur & Chennai",
+    "company2_title": "Trident Group India",
+    "company2_location": "Tiruppur & Coimbatore",
+    "company3_title": "Caterpillar Inc.",
+    "company3_location": "India Operations"
+  },
+ 
+ 
+  "jobs": {
+    "title": "ALL AVAILABLE JOBS",
+    "no_jobs": "No jobs found. Try adjusting your search.",
+    "view_details": "View Details",
+    "location_label": "Location:",
+    "salary_label": "Salary:",
+    "post_date": "Posted On:"
+  },
+  "jobdetails": {
+    "title": "Job Details",
+    "description_heading": "Description",
+    "info_heading": "Job Information",
+    "category": "Category",
+    "country": "Country",
+    "city": "City",
+    "location": "Location",
+    "posted_by": "Posted By",
+    "posted_on": "Job Posted On",
+    "salary_range": "Salary Range",
+    "fixed_salary": "Fixed Salary",
+    "button_apply": "Apply Now",
+    "already_applied": "Already Applied",
+    "login_to_apply": "Login to Apply",
+    "not_authorized": "You are not authorized to apply for this job.",
+    "label_title": "Title",
+    "label_salary": "Salary"
+  },
+  
+  "myjobs": {
+    "posted_jobs_title": "YOUR POSTED JOBS",
+    "label_title": "Title",
+    "label_country": "Country",
+    "label_city": "City",
+    "label_category": "Category",
+    "label_salary": "Salary",
+    "label_expired": "Expired",
+    "label_description": "Description",
+    "label_location": "Location",
+    "option_true": "True",
+    "option_false": "False",
+    "button_update": "Update Job",
+    "button_cancel": "Cancel Edit",
+    "button_edit": "Edit",
+    "button_delete": "Delete",
+    "no_jobs_message": "You haven't posted any job yet! 😥"
+  },
+
+  
+  "categories": {
+    "main_title": "Categories",
+    "graphics_design": "Graphics & Design",
+    "mobile_app_dev": "Mobile App Development",
+    "frontend_web_dev": "Frontend Web Development",
+    "mern_dev": "MERN Stack Development",
+    "account_finance": "Account & Finance",
+    "ai": "Artificial Intelligence",
+    "video_animation": "Video Animation",
+    "mean_dev": "MEAN Stack Development",
+    "mevn_dev": "MEVN Stack Development",
+    "data_entry": "Data Entry Operator",
+    "manufacturing_automobile": "Manufacturing & Automobile",
+    "construction_infrastructure": "Construction & Infrastructure",
+    "textile_garment": "Textile & Garment Industry",
+    "hospitality_food": "Hospitality & Food Services",
+    "service_maintenance": "Service & Maintenance",
+    "domestic_trades": "Domestic & Other Trades",
+    "port_logistics": "Port & Logistics",
+    "fishing_aquaculture": "Fishing & Aquaculture",
+    "engineering_trades": "Engineering & Technical Trades",
+    "food_services":"Food Services",
+    "construction":"Construction",
+    "manufacturing":"Manufacturing",
+    "hospitality":"Hospitality",
+    "textile":"Textile"
+  },
+  
+  "application": {
+    "main_title": "Job Application Form",
+    "placeholder_name": "Your Name",
+    "placeholder_email": "Your Email",
+    "placeholder_phone": "Your Phone Number",
+    "placeholder_address": "Your Address",
+    "placeholder_cover_letter": "Cover Letter...",
+    "label_upload_aadhar and PAN card": "Upload Aadhar or PAN card",
+    "supported_formats": "(Supported formats: PNG, JPEG, WEBP. Max size: 2MB)",
+    "button_send": "Send Application",
+    "button_submitting": "Submitting...",
+    "error_fill_all_fields": "Please fill in all required fields.",
+    "error_upload_aadhar and PAN card": "Please upload your Aadhar and PAN card.",
+    "error_invalid_file_type": "Please select a valid image file (PNG, JPEG, or WEBP).",
+    "error_file_too_large": "File size should be less than 2MB.",
+    "error_generic": "Something went wrong. Please try again later.",
+    "error_file_upload_service": "File upload service is currently unavailable. Please try again later."
+  },
+  "myapplications": {
+    "seeker_title": "My Job Applications",
+    "employer_title": "Applications From Job Seekers",
+    "no_applications": "No Applications Found",
+    "label_name": "Name",
+    "label_email": "Email",
+    "label_phone": "Phone",
+    "label_address": "Address",
+    "label_cover_letter": "CoverLetter",
+    "button_delete": "Delete Application",
+    "alt_resume": "Resume",
+    "error_fetch_applications": "Failed to fetch applications. Please try again.",
+    "error_delete_application": "Failed to delete application. Please try again."
+  },
+  
+  "postjob": {
+    "title": "POST NEW JOB",
+    "placeholder_job_title": "Job Title",
+    "placeholder_country": "Country",
+    "placeholder_city": "City",
+    "placeholder_location": "Location",
+    "placeholder_description": "Job Description",
+    "select_category_default": "Select Category",
+    "select_salary_type_default": "Select Salary Type",
+    "option_fixed_salary": "Fixed Salary",
+    "option_ranged_salary": "Ranged Salary",
+    "salary_type_required_message": "Please select a salary type *",
+    "placeholder_fixed_salary": "Enter Fixed Salary",
+    "placeholder_salary_from": "Salary From",
+    "placeholder_salary_to": "Salary To",
+    "button_create_job": "Create Job"
+  }
+
+
+
+}

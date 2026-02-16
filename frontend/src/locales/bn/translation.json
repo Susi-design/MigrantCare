@@ -1,0 +1,201 @@
+{
+  "nav": {
+    "home": "হোম",
+    "jobs": "সমস্ত চাকরি",
+    "applicant_applications": "আবেদনকারীর আবেদন",
+    "my_applications": "আমার আবেদন",
+    "post_job": "নতুন চাকরি পোস্ট করুন",
+    "my_jobs": "আপনার চাকরি দেখুন",
+    "logout": "লগ আউট"
+  },
+  "howitworks": {
+   "main_title": "ক্যারিয়ার মাইগ্রেন্ট কেয়ার কিভাবে কাজ করে!",
+    "step1_title": "অ্যাকাউন্ট তৈরি করুন",
+    "step1_description": "আপনার ভূমিকার সাথে নিবন্ধন করে একটি নতুন অ্যাকাউন্ট তৈরি করুন।",
+    "step2_title": "একটি চাকরি খুঁজুন/একটি চাকরি পোস্ট করুন",
+    "step2_description": "চাকরির জন্য আবেদন করুন/ উপযুক্ত প্রার্থীদের নিয়োগ করুন।",
+    "step3_title": "চাকরির জন্য আবেদন/উপযুক্ত প্রার্থী নিয়োগ করুন",
+    "step3_description": "আবেদনপত্রের মাধ্যমে চাকরির জন্য আবেদন করুন বা আপনার চাকরির পোস্টের জন্য উপযুক্ত প্রার্থী নির্বাচন করুন।"
+  },
+  "login": {
+    "title": "আপনার অ্যাকাউন্টে লগইন করুন",
+    "label_login_as": "হিসাবে লগইন করুন",
+    "select_role": "ভূমিকা নির্বাচন করুন",
+    "role_job_seeker": "চাকরিপ্রার্থী",
+    "role_employer": "নিয়োগকর্তা",
+    "label_email": "ইমেল ঠিকানা",
+    "placeholder_email": "আপনার ইমেল লিখুন",
+    "label_password": "পাসওয়ার্ড",
+    "placeholder_password": "আপনার পাসওয়ার্ড লিখুন",
+    "button_login": "লগইন",
+    "link_register": "এখন নিবন্ধন করুন"
+  },
+  "register": {
+    "title": "একটি নতুন অ্যাকাউন্ট তৈরি করুন",
+    "label_register_as": "হিসাবে নিবন্ধন করুন",
+    "select_role": "ভূমিকা নির্বাচন করুন",
+    "role_employer": "নিয়োগকর্তা",
+    "role_job_seeker": "চাকরিপ্রার্থী",
+    "label_name": "নাম",
+    "placeholder_name": "আপনার নাম লিখুন",
+    "label_email": "ইমেল ঠিকানা",
+    "placeholder_email": "আপনার ইমেল লিখুন",
+    "label_phone": "ফোন নম্বর",
+    "placeholder_phone": "আপনার ফোন লিখুন",
+    "label_password": "পাসওয়ার্ড",
+    "placeholder_password": "আপনার পাসওয়ার্ড লিখুন",
+    "button_register": "নিবন্ধন করুন",
+    "link_login": "এখন লগইন করুন"
+  },
+  "hero": {
+    "headline_p1": "এমন একটি চাকরি খুঁজুন যা মানানসই",
+    "headline_p2": "আপনার আগ্রহ এবং দক্ষতার জন্য",
+    "paragraph": "মাইগ্রেন্টকেয়ার হল একটি একত্রিত ডিজিটাল ওয়েব অ্যাপ্লিকেশন যা তামিলনাড়ু জুড়ে পরিযায়ী কর্মী এবং নিয়োগকর্তাদের সমর্থন, ক্ষমতায়ন এবং সংযোগ করার জন্য ডিজাইন করা হয়েছে। আমরা দুর্বল সম্প্রদায়ের জন্য ডিজিটাল অন্তর্ভুক্তির পথপ্রদর্শক, যা নিশ্চিত করে যে প্রতিটি কর্মী সুযোগ, সহায়তা এবং কল্যাণ পেতে পারে।",
+    "stats_live_job_key": "লাইভ চাকরি",
+    "stats_companies_key": "কোম্পানি",
+    "stats_job_seekers_key": "চাকরিপ্রার্থী",
+    "stats_employers_key": "নিয়োগকর্তা"
+  },
+ 
+  
+  "companies": {
+    "main_title": "শীর্ষ কোম্পানি",
+    "open_positions": "খালি পদ",
+    "company1_title": "সুন্দরম ফাস্টেনার্স",
+    "company1_location": "হোসুর ও চেন্নাই",
+    "company2_title": "ট্রাইডেন্ট গ্রুপ ইন্ডিয়া",
+    "company2_location": "তিরুপ্পুর ও কোয়েম্বাটুর",
+    "company3_title": "ক্যাটারপিলার ইনক.",
+    "company3_location": "ভারত অপারেশনস"
+  },
+  
+  "jobs": {
+    "title": "সমস্ত উপলব্ধ চাকরি",
+    "no_jobs": "কোনো চাকরি খুঁজে পাওয়া যায়নি। আপনার অনুসন্ধান পরিবর্তন করে দেখুন।",
+    "view_details": "বিস্তারিত দেখুন",
+    "location_label": "অবস্থান:",
+    "salary_label": "বেতন:",
+    "post_date": "পোস্ট করা হয়েছে:"
+  },
+ "jobdetails": {
+    "title": "চাকরির বিস্তারিত",
+    "description_heading": "বিবরণ",
+    "info_heading": "চাকরির তথ্য",
+    "category": "বিভাগ",
+    "country": "দেশ",
+    "city": "শহর",
+    "location": "অবস্থান",
+    "posted_by": "পোস্ট করেছেন",
+    "posted_on": "পোস্ট করার তারিখ",
+    "salary_range": "বেতনের সীমা",
+    "fixed_salary": "নির্দিষ্ট বেতন",
+    "button_apply": "এখনই আবেদন করুন",
+    "already_applied": "ইতিমধ্যে আবেদন করা হয়েছে",
+    "login_to_apply": "আবেদন করতে লগইন করুন",
+    "not_authorized": "আপনি এই চাকরির জন্য আবেদন করার জন্য অনুমোদিত নন।",
+    "label_title": "শিরোনাম",
+    "label_salary": "বেতন"
+  },
+  "myjobs": {
+    "posted_jobs_title": "আপনার পোস্ট করা চাকরি",
+    "label_title": "শিরোনাম",
+    "label_country": "দেশ",
+    "label_city": "শহর",
+    "label_category": "বিভাগ",
+    "label_salary": "বেতন",
+    "label_expired": "মেয়াদ উত্তীর্ণ",
+    "label_description": "বিবরণ",
+    "label_location": "অবস্থান",
+    "option_true": "সত্য",
+    "option_false": "মিথ্যা",
+    "button_edit": "সম্পাদনা করুন",
+    "button_update": "আপডেট করুন",
+    "button_cancel": "বাতিল করুন",
+    "button_delete": "মুছে ফেলুন",
+    "no_jobs_message": "আপনি কোনো চাকরি পোস্ট করেননি অথবা আপনি আপনার সমস্ত চাকরি মুছে ফেলেছেন!"
+  },
+  
+  "categories": {
+    "main_title": "বিভাগ",
+    "graphics_design": "গ্রাফিক্স ও ডিজাইন",
+    "mobile_app_dev": "মোবাইল অ্যাপ ডেভেলপমেন্ট",
+    "frontend_web_dev": "ফ্রন্টএন্ড ওয়েব ডেভেলপমেন্ট",
+    "mern_dev": "MERN স্ট্যাক ডেভেলপমেন্ট",
+    "account_finance": "অ্যাকাউন্টস ও ফিন্যান্স",
+    "ai": "কৃত্রিম বুদ্ধিমত্তা",
+    "video_animation": "ভিডিও অ্যানিমেশন",
+    "mean_dev": "MEAN স্ট্যাক ডেভেলপমেন্ট",
+    "mevn_dev": "MEVN স্ট্যাক ডেভেলপমেন্ট",
+    "data_entry": "ডেটা এন্ট্রি অপারেটর",
+    "manufacturing_automobile": "ম্যানুফ্যাকচারিং ও অটোমোবাইল",
+    "construction_infrastructure": "নির্মাণ ও পরিকাঠামো",
+    "textile_garment": "টেক্সটাইল ও গার্মেন্টস শিল্প",
+    "hospitality_food": "আতিথেয়তা ও খাদ্য পরিষেবা",
+    "service_maintenance": "পরিষেবা ও রক্ষণাবেক্ষণ",
+    "domestic_trades": "গার্হস্থ্য ও অন্যান্য ব্যবসা",
+    "port_logistics": "বন্দর ও লজিস্টিক্স",
+    "fishing_aquaculture": "মৎস্য ও জলজ পালন",
+    "engineering_trades": "ইঞ্জিনিয়ারিং ও কারিগরি ব্যবসা",
+    "food_services":"খাদ্য পরিষেবা",
+    "construction":"নির্মাণ",
+    "manufacturing":"উৎপাদন",
+    "hospitality":"আতিথেয়তা",
+    "textile":"টেক্সটাইল",
+    "main_title":"চাকরির আবেদন ফর্ম"
+  },
+
+  "application": {
+    "main_title": "চাকরির আবেদন ফর্ম",
+    "placeholder_name": "আপনার নাম",
+    "placeholder_email": "আপনার ইমেইল",
+    "placeholder_phone": "আপনার ফোন নম্বর",
+    "placeholder_address": "আপনার ঠিকানা",
+    "placeholder_cover_letter": "কভার লেটার...",
+    "label_upload_aadhar and PAN card": "আধার এবং প্যান কার্ড আপলোড করুন",
+    "supported_formats": "(সমর্থিত বিন্যাস: PNG, JPEG, WEBP. সর্বোচ্চ আকার: 2MB)",
+    "button_send": "আবেদন পাঠান",
+    "button_submitting": "জমা হচ্ছে...",
+    "error_fill_all_fields": "অনুগ্রহ করে সব প্রয়োজনীয় ঘর পূরণ করুন।",
+    "error_upload_aadhar and PAN card": "অনুগ্রহ করে আপনার সিভি আপলোড করুন।",
+    "error_invalid_file_type": "অনুগ্রহ করে একটি বৈধ ইমেজ ফাইল নির্বাচন করুন (PNG, JPEG, বা WEBP)।",
+    "error_file_too_large": "ফাইলের আকার 2MB এর কম হওয়া উচিত।",
+    "error_generic": "কিছু ভুল হয়েছে। অনুগ্রহ করে পরে আবার চেষ্টা করুন।",
+    "error_file_upload_service": "ফাইল আপলোড পরিষেবা বর্তমানে অনুপলব্ধ। অনুগ্রহ করে পরে আবার চেষ্টা করুন।"
+  },
+  
+  "myapplications": {
+    "seeker_title": "আমার চাকরির আবেদন",
+    "employer_title": "চাকরিপ্রার্থীদের আবেদন",
+    "no_applications": "কোনো আবেদন খুঁজে পাওয়া যায়নি",
+    "label_name": "নাম",
+    "label_email": "ইমেইল",
+    "label_phone": "ফোন",
+    "label_address": "ঠিকানা",
+    "label_cover_letter": "কভার লেটার",
+    "button_delete": "আবেদন মুছে ফেলুন",
+    "alt_resume": "সিভি",
+    "error_fetch_applications": "আবেদনগুলি আনতে ব্যর্থ হয়েছে। অনুগ্রহ করে আবার চেষ্টা করুন।",
+    "error_delete_application": "আবেদন মুছতে ব্যর্থ হয়েছে। অনুগ্রহ করে আবার চেষ্টা করুন।"
+  },
+  
+  "postjob": {
+    "title": "নতুন চাকরি পোস্ট করুন",
+    "placeholder_job_title": "চাকরির শিরোনাম",
+    "placeholder_country": "দেশ",
+    "placeholder_city": "শহর",
+    "placeholder_location": "অবস্থান",
+    "placeholder_description": "চাকরির বিবরণ",
+    "select_category_default": "বিভাগ নির্বাচন করুন",
+    "select_salary_type_default": "বেতনের ধরন নির্বাচন করুন",
+    "option_fixed_salary": "নির্দিষ্ট বেতন",
+    "option_ranged_salary": "সীমাযুক্ত বেতন",
+    "salary_type_required_message": "অনুগ্রহ করে বেতনের একটি ধরন নির্বাচন করুন *",
+    "placeholder_fixed_salary": "নির্দিষ্ট বেতন লিখুন",
+    "placeholder_salary_from": "বেতন থেকে",
+    "placeholder_salary_to": "বেতন পর্যন্ত",
+    "button_create_job": "চাকরি তৈরি করুন"
+  }
+
+
+
+}

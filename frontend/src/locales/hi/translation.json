@@ -1,0 +1,202 @@
+{
+  "nav": {
+    "home": "होम",
+    "jobs": "सभी नौकरियाँ",
+    "applicant_applications": "आवेदक के आवेदन",
+    "my_applications": "मेरे आवेदन",
+    "post_job": "नई नौकरी पोस्ट करें",
+    "my_jobs": "आपकी नौकरियाँ देखें",
+    "logout": "लॉग आउट"
+  },
+  "login": {
+    "title": "अपने खाते में लॉग इन करें",
+    "label_login_as": "इस रूप में लॉग इन करें",
+    "select_role": "भूमिका चुनें",
+    "role_job_seeker": "नौकरी खोजने वाला",
+    "role_employer": "नियोक्ता",
+    "label_email": "ईमेल पता",
+    "placeholder_email": "अपना ईमेल दर्ज करें",
+    "label_password": "पासवर्ड",
+    "placeholder_password": "अपना पासवर्ड दर्ज करें",
+    "button_login": "लॉग इन करें",
+    "link_register": "अभी पंजीकरण करें"
+  },
+  
+  "register": {
+    "title": "एक नया खाता बनाएं",
+    "label_register_as": "इस रूप में पंजीकरण करें",
+    "select_role": "भूमिका चुनें",
+    "role_employer": "नियोक्ता",
+    "role_job_seeker": "नौकरी खोजने वाला",
+    "label_name": "नाम",
+    "placeholder_name": "अपना नाम दर्ज करें",
+    "label_email": "ईमेल पता",
+    "placeholder_email": "अपना ईमेल दर्ज करें",
+    "label_phone": "फ़ोन नंबर",
+    "placeholder_phone": "अपना फ़ोन नंबर दर्ज करें",
+    "label_password": "पासवर्ड",
+    "placeholder_password": "अपना पासवर्ड दर्ज करें",
+    "button_register": "पंजीकरण करें",
+    "link_login": "अभी लॉग इन करें"
+  },
+ "hero": {
+    "headline_p1": "एक ऐसी नौकरी खोजें जो उपयुक्त हो",
+    "headline_p2": "आपके हितों और कौशल के लिए",
+    "paragraph": "माइग्रेंटकेयर एक एकीकृत डिजिटल वेब एप्लिकेशन है जिसे तमिलनाडु में प्रवासी कार्यबल और नियोक्ताओं को समर्थन देने, सशक्त बनाने और जोड़ने के लिए डिज़ाइन किया गया है। हम कमजोर समुदायों के लिए डिजिटल समावेशन का मार्ग प्रशस्त कर रहे हैं, यह सुनिश्चित करते हुए कि हर श्रमिक अवसर, समर्थन और कल्याण तक पहुंच सके।",
+    "stats_live_job_key": "लाइव नौकरी",
+    "stats_companies_key": "कंपनियाँ",
+    "stats_job_seekers_key": "नौकरी खोजने वाले",
+    "stats_employers_key": "नियोक्ता"
+  },
+  
+  "howitworks": {
+    "main_title": "करियर कनेक्ट कैसे काम करता है !",
+    "step1_title": "खाता बनाएं",
+    "step1_description": "अपनी भूमिका के साथ पंजीकरण करके एक नया खाता बनाएं।",
+    "step2_title": "नौकरी ढूंढें/नौकरी पोस्ट करें",
+    "step2_description": "नौकरी/भर्ती के लिए उपयुक्त उम्मीदवारों के लिए आवेदन करें।",
+    "step3_title": "नौकरी के लिए आवेदन करें/उपयुक्त उम्मीदवारों की भर्ती करें",
+    "step3_description": "आवेदन पत्र के माध्यम से नौकरी के लिए आवेदन करें या अपनी नौकरी के पदों के लिए उपयुक्त उम्मीदवारों का चयन करें।"
+  },
+  
+  "companies": {
+    "main_title": "शीर्ष कंपनियाँ",
+    "open_positions": "खुले पद",
+    "company1_title": "सुंदरम फास्टनर्स",
+    "company1_location": "होसुर और चेन्नई",
+    "company2_title": "ट्राइडेंट ग्रुप इंडिया",
+    "company2_location": "तिरुपूर और कोयंबटूर",
+    "company3_title": "कैटरपिलर इंक.",
+    "company3_location": "इंडिया ऑपरेशंस"
+  },
+  
+  "jobs": {
+    "title": "सभी उपलब्ध नौकरियाँ",
+    "no_jobs": "कोई नौकरी नहीं मिली। अपना खोज समायोजित करने का प्रयास करें।",
+    "view_details": "विवरण देखें",
+    "location_label": "स्थान:",
+    "salary_label": "वेतन:",
+    "post_date": "पोस्ट किया गया:"
+  },
+  "jobdetails": {
+    "title": "नौकरी का विवरण",
+    "description_heading": "विवरण",
+    "info_heading": "नौकरी की जानकारी",
+    "category": "श्रेणी",
+    "country": "देश",
+    "city": "शहर",
+    "location": "स्थान",
+    "posted_by": "इसके द्वारा पोस्ट किया गया",
+    "posted_on": "पोस्ट किया गया दिनांक",
+    "salary_range": "वेतन सीमा",
+    "fixed_salary": "निश्चित वेतन",
+    "button_apply": "अभी आवेदन करें",
+    "already_applied": "पहले ही आवेदन कर दिया गया है",
+    "login_to_apply": "आवेदन करने के लिए लॉगिन करें",
+    "not_authorized": "आप इस नौकरी के लिए आवेदन करने के लिए अधिकृत नहीं हैं।",
+    "label_title": "शीर्षक",
+    "label_salary": "वेतन"
+  },
+  "myjobs": {
+    "posted_jobs_title": "आपके द्वारा पोस्ट की गई नौकरियाँ",
+    "label_title": "शीर्षक",
+    "label_country": "देश",
+    "label_city": "शहर",
+    "label_category": "श्रेणी",
+    "label_salary": "वेतन",
+    "label_expired": "समाप्त",
+    "label_description": "विवरण",
+    "label_location": "स्थान",
+    "option_true": "सत्य",
+    "option_false": "असत्य",
+    "button_edit": "संपादित करें",
+    "button_update": "अपडेट करें",
+    "button_cancel": "रद्द करें",
+    "button_delete": "हटाएँ",
+    "no_jobs_message": "आपने कोई नौकरी पोस्ट नहीं की है या शायद आपने अपनी सभी नौकरियाँ हटा दी हैं!"
+  },
+  
+  "categories": {
+    "main_title": "श्रेणियाँ",
+    "graphics_design": "ग्राफिक्स और डिज़ाइन",
+    "mobile_app_dev": "मोबाइल ऐप विकास",
+    "frontend_web_dev": "फ्रंटएंड वेब विकास",
+    "mern_dev": "MERN स्टैक विकास",
+    "account_finance": "खाता और वित्त",
+    "ai": "कृत्रिम होशियारी",
+    "video_animation": "वीडियो एनिमेशन",
+    "mean_dev": "MEAN स्टैक विकास",
+    "mevn_dev": "MEVN स्टैक विकास",
+    "data_entry": "डेटा एंट्री ऑपरेटर",
+    "manufacturing_automobile": "विनिर्माण और ऑटोमोबाइल",
+    "construction_infrastructure": "निर्माण और अवसंरचना",
+    "textile_garment": "वस्त्र और परिधान उद्योग",
+    "hospitality_food": "आतिथ्य और खाद्य सेवाएँ",
+    "service_maintenance": "सेवा और रखरखाव",
+    "domestic_trades": "घरेलू और अन्य व्यापार",
+    "port_logistics": "बंदरगाह और रसद",
+    "fishing_aquaculture": "मत्स्य पालन और जलीय कृषि",
+    "engineering_trades": "इंजीनियरिंग और तकनीकी व्यापार",
+    "food_services":"खाद्य सेवाएँ",
+"construction":"निर्माण",
+"manufacturing":"निर्माण",
+"hospitality":"आतिथ्य",
+"textile":"वस्त्र"
+
+  },
+  
+  "application": {
+    "main_title": "नौकरी आवेदन पत्र",
+    "placeholder_name": "आपका नाम",
+    "placeholder_email": "आपका ईमेल",
+    "placeholder_phone": "आपका फ़ोन नंबर",
+    "placeholder_address": "आपका पता",
+    "placeholder_cover_letter": "कवर लेटर...",
+    "label_upload_aadhar and PAN card": "आधार और पैन कार्ड अपलोड करें",
+    "supported_formats": "(समर्थित प्रारूप: PNG, JPEG, WEBP. अधिकतम आकार: 2MB)",
+    "button_send": "आवेदन भेजें",
+    "button_submitting": "जमा किया जा रहा है...",
+    "error_fill_all_fields": "कृपया सभी आवश्यक फ़ील्ड भरें।",
+    "error_upload_aadhar and PAN card": "आधार और पैन कार्ड अपलोड करने में त्रुटि",
+    "error_invalid_file_type": "कृपया एक वैध छवि फ़ाइल चुनें (PNG, JPEG, या WEBP)।",
+    "error_file_too_large": "फ़ाइल का आकार 2MB से कम होना चाहिए।",
+    "error_generic": "कुछ गलत हो गया। कृपया बाद में पुन: प्रयास करें।",
+    "error_file_upload_service": "फ़ाइल अपलोड सेवा वर्तमान में अनुपलब्ध है। कृपया बाद में पुन: प्रयास करें।"
+  },
+  
+  "myapplications": {
+    "seeker_title": "मेरे नौकरी के आवेदन",
+    "employer_title": "नौकरी चाहने वालों के आवेदन",
+    "no_applications": "कोई आवेदन नहीं मिला",
+    "label_name": "नाम",
+    "label_email": "ईमेल",
+    "label_phone": "फ़ोन",
+    "label_address": "पता",
+    "label_cover_letter": "कवर लेटर",
+    "button_delete": "आवेदन हटाएँ",
+    "alt_resume": "रिज्यूमे",
+    "error_fetch_applications": "आवेदन लाने में विफल। कृपया पुन: प्रयास करें।",
+    "error_delete,_application": "आवेदन हटाने में विफल। कृपया पुन: प्रयास करें।"
+  },
+  
+  "postjob": {
+    "title": "नई नौकरी पोस्ट करें",
+    "placeholder_job_title": "नौकरी का शीर्षक",
+    "placeholder_country": "देश",
+    "placeholder_city": "शहर",
+    "placeholder_location": "स्थान",
+    "placeholder_description": "नौकरी का विवरण",
+    "select_category_default": "श्रेणी चुनें",
+    "select_salary_type_default": "वेतन प्रकार चुनें",
+    "option_fixed_salary": "निश्चित वेतन",
+    "option_ranged_salary": "सीमाबद्ध वेतन",
+    "salary_type_required_message": "कृपया एक वेतन प्रकार चुनें *",
+    "placeholder_fixed_salary": "निश्चित वेतन दर्ज करें",
+    "placeholder_salary_from": "वेतन से",
+    "placeholder_salary_to": "वेतन तक",
+    "button_create_job": "नौकरी बनाएं"
+  }
+
+
+
+}
